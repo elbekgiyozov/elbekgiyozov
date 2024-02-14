@@ -4,4 +4,4 @@ Since Feb 1, 2024: <br>
  
 Just Stats: <br>
 
-![Elbek's GitHub stats](https://github-readme-stats.vercel.app/api?elbekgiyozov=anuraghazra&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elbekgiyozov)](https://github.com/anuraghazra/github-readme-stats)
