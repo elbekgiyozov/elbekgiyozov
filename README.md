@@ -32,9 +32,9 @@ Since Feb 1, 2024: <br>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elbekgiyozov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elbekgiyozov" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbekgiyozov&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elbekgiyozov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elbekgiyozov&show_icons=true&theme=dracula&locale=en&layout=compact" alt="elbekgiyozov" /></p> <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbekgiyozov&show_icons=true&theme=dracula&locale=en" alt="elbekgiyozov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elbekgiyozov&show_icons=true&theme=dracula&locale=en" alt="elbekgiyozov" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbekgiyozov&theme=dark" alt="elbekgiyozov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elbekgiyozov&theme=dark" alt="elbekgiyozov" /></p><br><br>
 
