@@ -1,6 +1,6 @@
 Since Feb 1, 2024: <br>
 
-[![wakatime](https://wakatime.com/badge/user/018d6315-9e1f-43e0-b4a5-8e5e402d8778.svg)](https://wakatime.com/@018d6315-9e1f-43e0-b4a5-8e5e402d8778)
+[![My Coding Time Since Feb 1, 2024](https://wakatime.com/badge/user/018d6315-9e1f-43e0-b4a5-8e5e402d8778.svg)](https://wakatime.com/@018d6315-9e1f-43e0-b4a5-8e5e402d8778)
  
 <h1 align="center">Hi 👋, I'm Elbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
