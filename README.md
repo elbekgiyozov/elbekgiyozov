@@ -10,10 +10,10 @@ Since Feb 1, 2024: <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/elbekgiyozov" target="blank">codepen</a>
-<a href="https://linkedin.com/in/elbekgiyozov" target="blank">linkedIn</a>
-<a href="https://fb.com/elbekgiyozov" target="blank">facebook</a>
-<a href="https://instagram.com/elbekgiyozov" target="blank">instagram</a>
+<a href="https://codepen.io/elbekgiyozov" target="blank">codepen</a> |
+<a href="https://linkedin.com/in/elbekgiyozov" target="blank">linkedIn</a> | 
+<a href="https://fb.com/elbekgiyozov" target="blank">facebook</a> | 
+<a href="https://instagram.com/elbekgiyozov" target="blank">instagram</a> |
 <a href="https://www.youtube.com/c/elbekgiyozov" target="blank">you tube</a>
 </p>
 
