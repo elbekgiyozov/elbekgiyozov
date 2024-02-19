@@ -8,16 +8,6 @@ Since Feb 1, 2024: <br>
 <h1 align="center">Hi 👋, I'm Elbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [NFT Marketplace](nftmarketplace-atom.netlify.app)
-
-- 🌱 I’m currently learning **React.js**
-
-- 👨‍💻 All of my projects are available at [atombro.netlify.app](atombro.netlify.app)
-
-- 📫 How to reach me **elbekgiyozov0@gmail.com**
-
-- ⚡ Fun fact **I'm not just a coding enthusiast) I'm also a passionate mountain biker, exploring Uzbekistan's stunning landscapes on two wheels.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/elbekgiyozov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="elbekgiyozov" height="30" width="40" /></a>
