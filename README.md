@@ -11,12 +11,12 @@ Since Feb 1, 2024: <br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/elbekgiyozov" target="blank">codepen</a> |
-<a href="https://linkedin.com/in/elbekgiyozov" target="blank">linkedIn</a> | 
-<a href="https://fb.com/elbekgiyozov" target="blank">facebook</a> | 
-<a href="https://instagram.com/elbekgiyozov" target="blank">instagram</a> |
-<a href="https://www.youtube.com/c/elbekgiyozov" target="blank">you tube</a> |
-<a href="https://t.me/atom_017" target="blank">telegram</a>
+<a href="https://codepen.io/elbekgiyozov" target="_blank">codepen</a> |
+<a href="https://linkedin.com/in/elbekgiyozov" target="_blank">linkedIn</a> | 
+<a href="https://fb.com/elbekgiyozov" target="_blank">facebook</a> | 
+<a href="https://instagram.com/elbekgiyozov" target="_blank">instagram</a> |
+<a href="https://www.youtube.com/c/elbekgiyozov" target="_blank">you tube</a> |
+<a href="https://t.me/atom_017" target="_blank">telegram</a>
 
 </p>
 
