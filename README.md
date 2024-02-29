@@ -4,7 +4,7 @@ Since Feb 1, 2024: <br>
 [![wakatime](https://wakatime.com/badge/user/018d6315-9e1f-43e0-b4a5-8e5e402d8778.svg)](https://wakatime.com/@018d6315-9e1f-43e0-b4a5-8e5e402d8778) <br>
 </p>
  
-<h1 align="center">Hi 👋, I'm atom</h1>
+<h1 align="center">Hi 👋, I'm Elbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan. Someone who adheres to idealism. It can be anything as long as you put in the hard work. Sarcasm is something you come up with a lot when you talk. I am fun to work with. I don't like doing the same job over and over again. i always like to learn new things from other people like helping others solve their problems.</h3>
 
 <hr> 
