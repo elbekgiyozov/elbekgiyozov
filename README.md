@@ -9,7 +9,7 @@ Since Feb 1, 2024: <br>
 
 <hr> 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact with me:</h3>
 <p align="center">
 <a href="https://codepen.io/elbekgiyozov" target="_blank">codepen</a> |
 <a href="https://linkedin.com/in/elbekgiyozov" target="_blank">linkedIn</a> | 
