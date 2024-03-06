@@ -11,7 +11,7 @@ Since Feb 1, 2024: <br>
 
 <h3 align="center">Contact with me:</h3>
 <p align="center">
-<a href="https://codepen.io/elbekgiyozov" target="_blank">codepen</a> |
+<a href="https://giyozov.uz" target="_blank">website</a> |
 <a href="https://linkedin.com/in/elbekgiyozov" target="_blank">linkedIn</a> | 
 <a href="https://fb.com/elbekgiyozov" target="_blank">facebook</a> | 
 <a href="https://instagram.com/elbekgiyozov" target="_blank">instagram</a> |
