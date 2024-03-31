@@ -16,7 +16,7 @@ Since Feb 1, 2024: <br>
 <a href="https://fb.com/elbekgiyozov" target="_blank">facebook</a> | 
 <a href="https://instagram.com/elbekgiyozov" target="_blank">instagram</a> |
 <a href="https://www.youtube.com/c/elbekgiyozov" target="_blank">you tube</a> |
-<a href="https://t.me/atom_017" target="_blank">telegram</a>
+<a href="https://t.me/atom_017" target="_blank">telegram</a> | 
 <a href="https://t.me/atom_webdev" target="_blank">telegram channel</a>
 
 </p>
