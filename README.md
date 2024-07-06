@@ -22,7 +22,7 @@ Since Feb 1, 2024: <br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> HTML | CSS | SCSS | Bootstrap | TailwindCSS | JavaScript (learning) | React.js (learning) </p>
+<p align="center"> HTML | CSS | SCSS | Bootstrap | TailwindCSS | JavaScript | React.js (learning) </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elbekgiyozov&label=Profile%20views&color=0e75b6&style=flat" alt="elbekgiyozov" /> </p>
 
